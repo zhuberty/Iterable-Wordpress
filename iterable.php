@@ -4,8 +4,8 @@
  *
  */
 
-if( !class_exists( 'Iterable' ) ) {
-    class Iterable {
+if( !class_exists( 'IterablePlug' ) ) {
+    class IterablePlug {
         private $api_key = '';
         private $api_url = 'https://api.iterable.com:443/api/';
         private $debug = false;
