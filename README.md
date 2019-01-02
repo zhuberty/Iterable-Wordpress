@@ -1,4 +1,5 @@
 # Iterable-Wordpress
+Install this plugin directly by downloading as a .zip file and upload to your wordpress site.
 
 ## If you are updating an old plugin, you should:
 1. Use WP CLI to install the Github Updater: `wp plugin install --activate https://github.com/afragen/github-updater/archive/master.zip`
