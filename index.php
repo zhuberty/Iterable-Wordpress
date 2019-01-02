@@ -1,11 +1,10 @@
 <?php
 /*
 Plugin Name: Wordpress Iterable Add-On
-Plugin URI: http://www.imge.com
+Plugin URI: https://github.com/zhuberty/Iterable-Wordpress
 Description: Iterable integration for Wordpress.
 Version: 4.4
 Author: Chris Lewis
-Author URI: http://www.imge.com
 */
 
 define( 'VERSION', '4.4.0' );
