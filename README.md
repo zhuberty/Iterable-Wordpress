@@ -9,3 +9,6 @@ Install this plugin directly by downloading as a .zip file and upload to your wo
    1. Activate the new plugin
    1. Delete the old plugin
 1. Enjoy!
+
+## Or
+1. Use your FTP client of choice to overwrite the files in the old plugin directory with the updated files.
